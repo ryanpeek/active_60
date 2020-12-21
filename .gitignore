@@ -3,3 +3,5 @@
 .Rproj.user
 .secrets/
 .drake/
+.DS_Store
+*.html
